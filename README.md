@@ -1,1 +1,1 @@
-# Sonam-WahnughuSimulationPart1
+# solar_power
